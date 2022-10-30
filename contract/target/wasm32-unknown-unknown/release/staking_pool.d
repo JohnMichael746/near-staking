@@ -1,0 +1,1 @@
+/root/A/near-contract/staking/contract/target/wasm32-unknown-unknown/release/staking_pool.wasm: /root/A/near-contract/staking/contract/src/internal.rs /root/A/near-contract/staking/contract/src/lib.rs
