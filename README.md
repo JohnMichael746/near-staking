@@ -1,4 +1,4 @@
-near-blank-project
+Staking-pool-project
 ==================
 
 This app was initialized with [create-near-app]
