@@ -1,0 +1,10 @@
+collateral-token/target
+collateral-token/Cargo.lock
+collateral-token/.cargo
+staking-pool/target
+staking-pool/Cargo.lock
+staking-pool/.cargo
+integration-tests/target
+integration-tests/Cargo.lock
+integration-tests/.cargo
+*.tar.gz

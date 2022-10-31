@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/root/A/near-contract/staking/contract/target/wasm32-unknown-unknown/release/build/typenum-e1ebfb50c4608667/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/root/A/near-contract/staking/contract/target/wasm32-unknown-unknown/release/build/typenum-e1ebfb50c4608667/out/op.rs
