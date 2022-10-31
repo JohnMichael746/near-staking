@@ -1,0 +1,16 @@
+/work/near_staking/near-staking/integration-tests/target/debug/deps/secp256k1-b74550d630f8882e.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/secret.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/context.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/key.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/constants.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdh.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/serialized_signature.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/recovery.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/scalar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/schnorr.rs
+
+/work/near_staking/near-staking/integration-tests/target/debug/deps/secp256k1-b74550d630f8882e.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/secret.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/context.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/key.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/constants.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdh.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/serialized_signature.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/recovery.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/scalar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/schnorr.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/macros.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/secret.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/context.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/key.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/constants.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdh.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/serialized_signature.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/ecdsa/recovery.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/scalar.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.24.1/src/schnorr.rs:
